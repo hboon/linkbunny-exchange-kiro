@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "linkbunny-exchange",
+  "version": "1.0.0",
+  "description": "Use Kiro to run contextual nofollow link exchanges for sites you control.",
+  "author": { "name": "LinkBunny", "url": "https://getlinkbunny.com" },
+  "keywords": [
+    "LinkBunny Exchange",
+    "nofollow link exchange",
+    "LinkBunny assignment"
+  ],
+  "homepage": "https://getlinkbunny.com/mcp#exchange",
+  "repository": "https://github.com/hboon/linkbunny-exchange-kiro",
+  "license": "MIT"
+}
